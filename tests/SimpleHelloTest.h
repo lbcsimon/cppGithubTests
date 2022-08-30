@@ -1,0 +1,14 @@
+//
+// Created by 15913 on 2022/8/30.
+//
+
+#ifndef SIMPLETEST_SIMPLEHELLOTEST_H
+#define SIMPLETEST_SIMPLEHELLOTEST_H
+
+
+class SimpleHelloTest {
+
+};
+
+
+#endif //SIMPLETEST_SIMPLEHELLOTEST_H
