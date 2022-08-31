@@ -4,7 +4,7 @@
 
 #include "SimpleHelloTest.h"
 #include <iostream>
-#include "..\Hello.h"
+#include "../Exercise/Hello.h"
 int main() {
     if (Hello().SayHi() == "Hello World"){
         std::cout << "Hello World Test Pass!" << std::endl;
